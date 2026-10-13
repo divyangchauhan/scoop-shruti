@@ -1,0 +1,20 @@
+{
+    "version": "1.0.1.0",
+    "description": "Windows dictation with local speech recognition and insertion into the focused app.",
+    "homepage": "https://github.com/divyangchauhan/Shruti",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/divyangchauhan/Shruti/releases/download/v1.0.1.0/Shruti-1.0.1.0-x64.zip",
+            "hash": "e156ca4732e7cfb5c2ddb3c1f468e5269cd65efff06125bfc5dd05aef36ba417"
+        }
+    },
+    "extract_dir": "Shruti",
+    "bin": [["Shruti.App.WinUI.exe", "shruti"]],
+    "shortcuts": [["Shruti.App.WinUI.exe", "Shruti"]],
+    "notes": [
+        "A speech model download is required before dictation. Settings and models use %LOCALAPPDATA%\\Shruti.",
+        "Closing the window keeps Shruti in the tray. Choose Exit Shruti before uninstalling.",
+        "The portable ZIP is unsigned. Microsoft Store is the alternative with Store signing and updates."
+    ]
+}
