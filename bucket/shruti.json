@@ -1,12 +1,12 @@
 {
-    "version": "1.0.1.0",
+    "version": "1.0.8.0",
     "description": "Windows dictation with local speech recognition and insertion into the focused app.",
     "homepage": "https://github.com/divyangchauhan/Shruti",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/divyangchauhan/Shruti/releases/download/v1.0.1.0/Shruti-1.0.1.0-x64.zip",
-            "hash": "e156ca4732e7cfb5c2ddb3c1f468e5269cd65efff06125bfc5dd05aef36ba417"
+            "url": "https://github.com/divyangchauhan/Shruti/releases/download/v1.0.8.0/Shruti-1.0.8.0-x64.zip",
+            "hash": "cc3b2dc4b7af86c7bc00d2d5ec241ccec75b11a855766bd6a4d34558da8c0cf2"
         }
     },
     "extract_dir": "Shruti",
