@@ -5,8 +5,8 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/divyangchauhan/Shruti/releases/download/v1.0.8.0/Shruti-1.0.8.0-x64.zip",
-            "hash": "cc3b2dc4b7af86c7bc00d2d5ec241ccec75b11a855766bd6a4d34558da8c0cf2"
+            "url": "https://github.com/divyangchauhan/Shruti/releases/download/v1.0.8.0/Shruti-1.0.8.0-x64-portable.zip",
+            "hash": "d4ec8c92f785a5e5436754b4b94f46a8d878ad85f9cc5039418b8c83a22b7b87"
         }
     },
     "extract_dir": "Shruti",
